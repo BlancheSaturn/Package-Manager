@@ -1,0 +1,23 @@
+{
+  "name": "package-manager",
+  "version": "1.0.0",
+  "description": "This is repo for code-along",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlancheSaturn/Package-Manager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlancheSaturn/Package-Manager/issues"
+  },
+  "homepage": "https://github.com/BlancheSaturn/Package-Manager#readme",
+  "dependencies": {
+    "chart.js": "^3.7.1"
+  }
+}
